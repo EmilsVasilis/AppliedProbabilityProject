@@ -10,7 +10,7 @@ public class gameOne {
         if(roulette.colour.equals("red")){
             return 2;
         }
-        return 0;
+        return -1;
     }
 
 }
